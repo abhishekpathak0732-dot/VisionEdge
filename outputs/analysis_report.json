@@ -1,0 +1,21 @@
+{
+  "project": "VisionEdge",
+  "student": "Abhishek Pathak",
+  "registration_number": "24BAI10897",
+  "resolution": {
+    "width": 640,
+    "height": 480
+  },
+  "metrics": {
+    "brightness": 200.19,
+    "contrast": 50.11,
+    "sharpness": 71.76,
+    "edge_density": 0.0217
+  },
+  "quality_label": "GOOD",
+  "outputs": [
+    "enhanced.jpg",
+    "edges.jpg",
+    "analysis_report.json"
+  ]
+}
